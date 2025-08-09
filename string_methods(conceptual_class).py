@@ -85,11 +85,36 @@
 
 
 
-# ===========================================         =========================================
 
 
 
 
 
 
+# =========================================== Check if string contains only letters         =========================================
+
+# alphabetic_text="python"
+# print("is lowercase?:" , alphabetic_text.isalpha())
+#
+
+
+
+
+
+
+
+
+
+
+# ===========================================  Check if all characters are lowercase      =========================================
+
+#
+# alphabetic_text="python"
+# print("is lowercase?:" , alphabetic_text.isalpha())
+
+
+
+
+text="shofikul islam"
+print("all lowercase :", text.islower())
 
